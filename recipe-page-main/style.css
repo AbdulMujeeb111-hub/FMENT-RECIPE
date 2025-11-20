@@ -1,0 +1,14 @@
+.young-serif-regular {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body {
+    font-family: "Outfit", sans-serif;
+    font-size: 16px;
+}
+
+.special-font {
+    font-family: "Young Serif", serif;
+}
